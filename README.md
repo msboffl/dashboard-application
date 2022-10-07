@@ -1,1 +1,1 @@
-# dashboard-application
+# Dashboard Application
